@@ -10,6 +10,13 @@ li {
 form.user-info {
   border: 3px solid black;
   border-radius: 5px;
+  padding-top: 5%;
+}
+
+h1 {
+  background-color: #784212;
+  color: white;
+  padding: 3%;
 }
 
 input {
@@ -22,8 +29,9 @@ input {
 }
 
 button.submit {
-  background-color: #fffe00;
-  color: black;
+  background-color: #784212;
+  color: white;
+  font-weight: bolder;
   padding: 14px 20px;
   margin: 8px 0;
   border: none;
