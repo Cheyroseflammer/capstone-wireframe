@@ -10,7 +10,6 @@ li {
 form.user-info {
   border: 3px solid black;
   border-radius: 5px;
-
 }
 
 input {
@@ -23,7 +22,7 @@ input {
 }
 
 button.submit {
-  background-color: #FFFE00;
+  background-color: #fffe00;
   color: black;
   padding: 14px 20px;
   margin: 8px 0;
@@ -48,10 +47,10 @@ footer {
 
 table {
   width: 500px;
-
 }
 
-th, td {
+th,
+td {
   padding: 7px 10px 10px;
 }
 
@@ -64,7 +63,7 @@ th {
 }
 
 /* Rider CSS */
-div.rider-roster{
+div.rider-roster {
   border: 2px solid black;
 }
 
