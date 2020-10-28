@@ -5,6 +5,8 @@
 
 li {
   list-style-type: none;
+  display: inline;
+  margin-right: 10px;
 }
 
 form.user-info {
